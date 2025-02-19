@@ -1,71 +1,22 @@
-Hi, I'm Kamil Hussen! 👋
+# Hi! 👋 I'm Kamil Hussen  
+🚀 **Technology & Cyber Expert | Video Editor | Web & Graphics Designer**  
+🎵 **Emerging Music Artist | Spotify | Apple Music**  
 
- <!-- Change this to your actual banner image URL -->
-
-🚀 About Me
-
-I'm a highly accomplished tech enthusiast with expertise in:
-
-Technology & Cyber Security 🛡️
-
-Website Design & Development 🌐
-
-Graphics Design 🎨
-
-Android Development 📱
-
-Video Editing 🎬
-
-Cryptocurrency & Blockchain 💰
-
-
-I've been actively working in the online world since 2013, helping people and making a difference in the digital space.
-
-🎵 My Music Journey
-
-I'm also an emerging electronic music artist! Some of my popular tracks:
-
-🎶 End of Life
-
-🎵 The Attitude
-
-🔥 Never Waiting
-
-🎧 Happy's Day
-
-🎼 Ride or Die
-
-
-📢 My latest track: Ride or Die
-
-Available on:
-
-
-
-
-
-📩 Connect with Me
-
-📧 Email: kamil.chat24@icloud.com
-🌐 Website: [Coming Soon]
-📱 Telegram: @kamilhussen24
-
-Social Media:
-
-
-
-
-
-
-💻 Tech & Tools I Use
-
-    
-
-📊 GitHub Stats
-
-
-
+## 🔗 Connect with me  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kamilhussen24/)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kamilhussen24/)  
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@kamilhussen24)  
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/1IY0Qb4G41COXJufq8EogM)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/kamilhussen24)  
 
 ---
 
-💙 Thanks for visiting my profile! 💙
+### 🛠️ **Skills & Expertise**  
+- 🎨 Graphic Design (Photoshop, Illustrator)  
+- 🎬 Video Editing (Premiere Pro, After Effects)  
+- 🌐 Web Development (HTML, CSS, JS)  
+- 🔒 Cyber Security & Tech Expert  
+
+---
+
+📌 _"Technology is my passion, and creativity is my strength!"_
