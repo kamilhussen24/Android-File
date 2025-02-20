@@ -17,14 +17,13 @@ Hi! 👋 I'm Kamil Hussen
 </p>
 ---
 
-🧭 Skills & Expertise
 ## 🚀 Skills & Expertise
 
 ### 🌟 Tech & Cyber Security | Web & Graphics Design | Video Editing
 
 ### 💡 Creativity | Innovation | Problem Solving
 
-```js
+```javascript
 const kamil = {
   skills: ["Cyber Security", "Graphic Design", "Web Development", "Video Editing"],
   tools: ["Photoshop", "Illustrator", "Premiere Pro", "After Effects"],
@@ -32,13 +31,6 @@ const kamil = {
   quote: "Technology is my passion, and creativity is my strength!"
 };
 console.log(kamil);
-
-
----
-
-🎵 My Latest Track
-
-🚀 Ride or Die (Click to Listen) 🎧
 
 
 ---
