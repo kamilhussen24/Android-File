@@ -17,13 +17,15 @@ Hi! 👋 I'm Kamil Hussen
 </p>
 ---
 
-🛠️ Skills & Expertise
+🧭 Skills & Expertise
 
 🌟 Tech & Cyber Security | Web & Graphics Design | Video Editing
+
 💡 Creativity | Innovation | Problem Solving
 
+
 const kamil = {
-  skills: ["Cyber Security", "Graphic Design", "Web Dev", "Video Editing"],
+  skills: ["Cyber Security", "Graphic Design", "Web Development", "Video Editing"],
   tools: ["Photoshop", "Illustrator", "Premiere Pro", "After Effects"],
   music: ["Electronic", "Phonk", "K-Pop"],
   quote: "Technology is my passion, and creativity is my strength!"
@@ -33,11 +35,9 @@ console.log(kamil);
 
 ---
 
-🎵 My Latest Track:
+🎵 My Latest Track
 
 🚀 Ride or Die (Click to Listen) 🎧
-
-
 
 
 ---
@@ -50,7 +50,7 @@ console.log(kamil);
 </p>
 ---
 
-⚡ Fun Animation!
+⚡ Highlight!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=500&color=F7F7F7&background=000000&width=500&height=50&lines=Hello+there!+I+am+Kamil+Hussen!;Cyber+Security+Expert!;Graphics+%26+Web+Designer!;Music+Producer!;Tech+Enthusiast!"/>
