@@ -18,12 +18,13 @@ Hi! 👋 I'm Kamil Hussen
 ---
 
 🧭 Skills & Expertise
+## 🚀 Skills & Expertise
 
-🌟 Tech & Cyber Security | Web & Graphics Design | Video Editing
+### 🌟 Tech & Cyber Security | Web & Graphics Design | Video Editing
 
-💡 Creativity | Innovation | Problem Solving
+### 💡 Creativity | Innovation | Problem Solving
 
-
+```js
 const kamil = {
   skills: ["Cyber Security", "Graphic Design", "Web Development", "Video Editing"],
   tools: ["Photoshop", "Illustrator", "Premiere Pro", "After Effects"],
